@@ -15,6 +15,8 @@ class FullStackWebDeveloper {
     this.name = "Prakhar Nagore";
     this.role = "FullStack Web Developer";
     this.language_spoken = ["Hindi", "English"];
+    this.aboutme="I create things that live on Internet.I have a serious passion for creating fully functional web applications with an excellent user interface. I have the ability to learn and collaborate in rapidly changing environments and compositions. Worked through 1000+ hours of bootcamp structure, learning JavaScript, Node.Js, and React.Js. Eager to tackle web development/design challenges to achieve lasting impacts on user experience.
+"
   }
 
   say_hi() {
