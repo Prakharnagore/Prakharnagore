@@ -28,7 +28,7 @@ me = new FullStackWebDeveloper();
 me.say_hi();
 
 ```
-## Technology i have been working with recently <⁄>
+## Technology i have been working with recently - MERN STACK 😁
 <p>
 <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" height="40" style="vertical-align:down; margin:4px" alt="html">
 <img src="https://img.icons8.com/color/144/000000/css3.png" height="40" style="vertical-align:down; margin:4px" alt="css">
