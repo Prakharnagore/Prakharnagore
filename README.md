@@ -4,8 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![visitors]([https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na](https://aglowiditsolutions.com/blog/mean-stack-vs-mern-stack/))
 
 
 ### Connect with me:
