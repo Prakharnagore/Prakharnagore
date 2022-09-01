@@ -28,18 +28,18 @@ me = new FullStackWebDeveloper();
 me.say_hi();
 
 ```
-### Technology i have been working with recently <⁄>
+## Technology i have been working with recently <⁄>
 <p>
-<img src="https://img.icons8.com/color/144/000000/html-5--v1.png" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://img.icons8.com/color/144/000000/css3.png" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://img.icons8.com/color/144/000000/sass.png" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://img.icons8.com/color/144/000000/javascript--v1.png" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://img.icons8.com/color/144/000000/react-native.png" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://img.icons8.com/color/144/000000/redux.png" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://img.icons8.com/color/144/000000/nodejs.png" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://img.icons8.com/ios/2x/express-js.png" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-<img src="https://img.icons8.com/color/144/000000/mongodb.png" height="40" style="vertical-align:down; margin:4px" alt="golang">
-<img src="https://img.icons8.com/color/144/000000/mysql-logo.png" height="40" style="vertical-align:down; margin:4px" alt="golang">
+<img src="https://img.icons8.com/color/144/000000/html-5--v1.png" height="40" style="vertical-align:down; margin:4px" alt="html">
+<img src="https://img.icons8.com/color/144/000000/css3.png" height="40" style="vertical-align:down; margin:4px" alt="css">
+<img src="https://img.icons8.com/color/144/000000/sass.png" height="40" style="vertical-align:down; margin:4px" alt="scss">
+<img src="https://img.icons8.com/color/144/000000/javascript--v1.png" height="40" style="vertical-align:down; margin:4px" alt="js">
+<img src="https://img.icons8.com/color/144/000000/react-native.png" height="40" style="vertical-align:down; margin:4px" alt="reactjs">
+<img src="https://img.icons8.com/color/144/000000/redux.png" height="40" style="vertical-align:down; margin:4px" alt="redux">
+<img src="https://img.icons8.com/color/144/000000/nodejs.png" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
+<img src="https://img.icons8.com/ios/2x/express-js.png" height="40" style="vertical-align:down; margin:4px" alt="express">
+<img src="https://img.icons8.com/color/144/000000/mongodb.png" height="40" style="vertical-align:down; margin:4px" alt="mongodb">
+<img src="https://img.icons8.com/color/144/000000/mysql-logo.png" height="40" style="vertical-align:down; margin:4px" alt="mysql">
 </p>
 
 
