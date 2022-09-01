@@ -13,7 +13,7 @@ var me;
 class FullStackWebDeveloper {
   constructor() {
     this.name = "Prakhar Nagore";
-    this.role = "Software Developer";
+    this.role = "FullStack Web Developer";
     this.language_spoken = ["Hindi", "English"];
   }
 
