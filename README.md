@@ -28,7 +28,13 @@ me = new FullStackWebDeveloper();
 me.say_hi();
 
 ```
-## Technology i have been working with recently <⁄>
+** Technology i have been working with recently <⁄> ** 
+<p>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
+</p>
 
 
 ## Languages used in my public repos - Big fan of JavaScript 😛
