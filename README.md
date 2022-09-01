@@ -4,6 +4,27 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there👋, I am Prakhar
 
+``Javascript
+var me;
+
+class FullStackWebDeveloper {
+  constructor() {
+    this.name = "Prakhar Nagore";
+    this.role = "Software Developer";
+    this.language_spoken = ["Hindi", "English"];
+  }
+
+  say_hi() {
+    console.log("Thanks for visiting my profile, hope you find some of my work interesting.");
+  }
+
+}
+
+me = new FullStackWebDeveloper();
+me.say_hi();
+
+```
+
 <a href="#">
 ## Fullstack Web Developer
   <img align="center" src="https://1qkeyv41u1op36vgbm47q0i6-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/MERN-Stack-1.png" alt="MERN STACK DEVELOPER" />
