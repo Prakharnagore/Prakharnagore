@@ -51,9 +51,9 @@ me.say_hi();
 &nbsp;
 ### Connect with me - Social Links 📱
 <a href="https://www.instagram.com/prakharnag0re/">
-  <img align="left" alt="Prakhar's Instagram" width="144px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Prakhar's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/prakharnagore/">
-  <img align="left" alt="Prakhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Prakhar's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
