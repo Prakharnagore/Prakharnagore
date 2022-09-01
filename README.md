@@ -28,18 +28,13 @@ me = new FullStackWebDeveloper();
 me.say_hi();
 
 ```
-<div align="center" width="100%">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharnagorehide_title=1&card_width=100%" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
   <br />
 </div>
-
-<a href="#">
-## Fullstack Web Developer
-  <img align="center" src="https://1qkeyv41u1op36vgbm47q0i6-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/MERN-Stack-1.png" alt="MERN STACK DEVELOPER" />
-</a>
 
 
 ### Connect with me:
