@@ -28,13 +28,10 @@ me = new FullStackWebDeveloper();
 me.say_hi();
 
 ```
-div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharnagore&card_width=1000" alt="Top language used in my repos" />
+<small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharnagore&layout=compact&card_width=1000" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
-  <br />
-</div>
+ 
 
 
 ### Connect with me:
