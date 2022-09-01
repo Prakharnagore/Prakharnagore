@@ -2,10 +2,11 @@
 Prakharnagore/Prakharnagore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there👋, I am Prakhar Nagore
--- ❤️ Full Stack Web Developer Based In India
--- 🌱 I’m currently learning everything 🤣
--- ⚡ Fun fact: I love to draw and play guitar / flute
+# Hi there👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 
 ### Connect with me:
 
