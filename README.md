@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there👋, I am Prakhar
 
 ```python
-#!/usr/bin/python
+#!/usr/bin/node
 # -*- coding: utf-8 -*-
 
 var me;
