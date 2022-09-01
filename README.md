@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there👋
 
-![visitors]([https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na](https://aglowiditsolutions.com/blog/mean-stack-vs-mern-stack/))
+<a href="#">
+  <img align="center" src="https://1qkeyv41u1op36vgbm47q0i6-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/MERN-Stack-1.png" alt="MERN STACK DEVELOPER" />
+</a>
 
 
 ### Connect with me:
