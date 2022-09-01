@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there👋, I am Prakhar
 
-``Javascript
+``javascript
+#!/usr/bin/javascript
+# -*- coding: utf-8 -*-
 var me;
 
 class FullStackWebDeveloper {
