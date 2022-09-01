@@ -3,7 +3,7 @@ Prakharnagore/Prakharnagore is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 # Hi there👋, I am Prakhar Nagore
---❤️ Full Stack Web Developer Based In India
+-- ❤️ Full Stack Web Developer Based In India
 -- 🌱 I’m currently learning everything 🤣
 -- ⚡ Fun fact: I love to draw and play guitar / flute
 
