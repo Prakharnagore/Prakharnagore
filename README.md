@@ -42,10 +42,9 @@ me.say_hi();
 <img src="https://img.icons8.com/color/144/000000/mongodb.png" height="40" style="vertical-align:down; margin:4px" alt="mongodb">
 <img src="https://img.icons8.com/color/144/000000/mysql-logo.png" height="40" style="vertical-align:down; margin:4px" alt="mysql">
 </p>
-&nbsp;
+
 ## Languages used in my public repos - Big fan of JavaScript 😛
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharnagore&layout=compact&show_icons=true&card_width=1000" alt="Top language used in my repos" />
-
 
 ### Connect with me - Social Links 📱
 <a href="https://www.instagram.com/prakharnag0re/">
