@@ -29,7 +29,7 @@ me.say_hi();
 
 ```
 div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharnagorehide_title=1&card_width=100%" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharnagorehide_title=1&card_width=1000" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
