@@ -30,7 +30,7 @@ me.say_hi();
 ```
 ### Technology i have been working with recently <⁄>
 <p>
-<img src="src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
