@@ -34,7 +34,8 @@ me.say_hi();
 ## Languages used in my public repos - Big fan of JavaScript 😛
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharnagore&layout=compact&show_icons=true&card_width=1000" alt="Top language used in my repos" />
   
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 
 ### Connect with me:
