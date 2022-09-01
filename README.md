@@ -46,7 +46,7 @@ me.say_hi();
 ## Languages used in my public repos - Big fan of JavaScript 😛
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharnagore&layout=compact&show_icons=true&card_width=1000" alt="Top language used in my repos" />
 
-### Connect with me - Social Links 📱
+## Connect with me - Social Links 📱
 <a href="https://www.instagram.com/prakharnag0re/">
   <img align="left" alt="Prakhar's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
