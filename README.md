@@ -29,7 +29,7 @@ me.say_hi();
 
 ```
 ## Languages used in my public repos - Big fan of JavaScript 😛
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharnagore&layout=compact&card_width=1000&card_height=400" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharnagore&layout=compact&show_icons=true&card_width=1000&card_height=400" alt="Top language used in my repos" />
  
 
 
