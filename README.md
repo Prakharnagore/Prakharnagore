@@ -36,7 +36,6 @@ me.say_hi();
 <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" height="40" style="vertical-align:down; margin:4px" alt="js">
 <img src="https://img.icons8.com/color/144/000000/react-native.png" height="40" style="vertical-align:down; margin:4px" alt="reactjs">
 <img src="https://img.icons8.com/color/144/000000/redux.png" height="40" style="vertical-align:down; margin:4px" alt="redux">
-<img src="https://icons8.com/icon/yUdJlcKanVbh/next.js" height="40" style="vertical-align:down; margin:4px" alt="nextjs">
 <img src="https://img.icons8.com/color/144/000000/nodejs.png" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
 <img src="https://img.icons8.com/ios/2x/express-js.png" height="40" style="vertical-align:down; margin:4px" alt="express">
 <img src="https://img.icons8.com/color/144/000000/mongodb.png" height="40" style="vertical-align:down; margin:4px" alt="mongodb">
